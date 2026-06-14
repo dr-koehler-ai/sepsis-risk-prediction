@@ -15,4 +15,4 @@ Ein Python-Projekt zur Analyse respiratorischer Patientendaten.
 
 ## Autor
 
-Christin Selke
+Christin Köhler

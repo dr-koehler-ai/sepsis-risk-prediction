@@ -16,7 +16,7 @@ The goal is to translate medical scoring rules into structured, object-oriented 
 ## Objectives
 
 - Understand clinical scoring systems used in ICU decision-making
-- Translate medical definitions into programmable logic
+- Translate medical definitions into programmable logic (Python)
 - Practice object-oriented programming (OOP) in a clinical context
 - Build a modular system for patient-based score calculation
 
@@ -139,7 +139,7 @@ This project demonstrates:
 - Simplified clinical logic (not validated for real-world use)
 - No patient time-series data integration
 - No probabilistic or machine learning components
-- Designed for educational purposes only
+- Designed for learning purposes only
 
 ---
 
